@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="horizontal"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single"
+
+        android:id="@+id/navigationMenu">
+        <item
+            android:id="@+id/idNavGit"
+            android:icon="@drawable/baseline_add_24"
+            android:title="Github user"/>
+        <item
+            android:id="@+id/idNavPro"
+            android:icon="@drawable/baseline_add_24"
+            android:title="User profile"/>
+
+        <item
+            android:id="@+id/idNavUpdate"
+            android:icon="@drawable/baseline_add_24"
+            android:title="PlaceHolder update"/>
+
+    </group>
+
+</menu>

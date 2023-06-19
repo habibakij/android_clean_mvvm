@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyMVVM</string>
+    <string name="heading">MVVM Architecture Pattern</string>
+    <string name="email_hint">Enter your Email ID</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="button_text">Login</string>
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+</resources>
